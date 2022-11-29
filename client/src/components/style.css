@@ -1,0 +1,15 @@
+.back {
+    background-color: rgba(0, 0, 0, 0.747);
+    width: 350px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 80px;
+    padding: 30px;
+}
+body {
+    background-image: url(prts.jpg);
+    background-size: cover;
+}
+label {
+    color: white;
+}
